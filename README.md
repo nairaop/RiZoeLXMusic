@@ -1,13 +1,13 @@
-<h2 align="centre">ℝ𝚒ℤ𝚘𝚎𝕃𝕏𝕄𝚞𝚜𝚒𝚌 🎵</h2>
+<h2 align="centre">✮‌𓆩𝐁𝐍𝐒𓆪➻❥⃟🅿🅰🆁🅸 ༗❅✸⁂✧❀❁❦✰.｡.✵°✵,¸.• 🎵</h2>
 
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/bf19c811fe0c137f7cb61.jpg">
+  <img src="https://te.legra.ph/file/aec11f657395ee3567a8a.jpg">
 </p>
 <H3>Creator</h3>
 
-[![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+[![telegram badge](https://img.shields.io/badge/@BNS_PARI-30302f?style=for-the-badge&logo=telegram)](https://t.me/BNS_PARI)
 
 <h3>Requirements 📝</h3>
 
@@ -31,7 +31,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Infinity-Bots/GroupMusicPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nairaop/GroupMusicPlayerBot)
 
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
